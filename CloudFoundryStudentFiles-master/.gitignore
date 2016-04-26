@@ -1,0 +1,15 @@
+Thumbs.db
+desktop.ini
+.DS_Store
+.classpath
+.settings/
+.project
+.gradle
+.idea
+*.iml
+
+*.odp#
+/.project
+update/
+build/
+target/
